@@ -1,1 +1,5 @@
-# Yeolhyeol_C_Programming
+﻿# Yeolhyeol_C_Programming
+
+1. <옵션> - <환경> - <문서> - <데이터를 코드 페이지에 저장할 수 없을 때 문서를 유니코드로 저장>에 체크
+2. <파일> - <새로 만들기> - <프로젝트> - <Windows데스크톱> - <Windows데스크톱 마법사> - <빈 프로젝트> - stdio.h를 사용하기 위함
+3. 파일을 저장할 시 UTF-8로 저장
